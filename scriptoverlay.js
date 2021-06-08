@@ -238,7 +238,7 @@ const enviar = ()=>{
             "\n"+ "Quem indicou: "+indicado
         ;
 
-        document.location.href = "mailto:yteixeira133@gmail.com?subject="+ "&body=" + encodeURIComponent(mensagem);
+        document.location.href = "mailto:viverdecasasustentavel@gmail.com​?subject="+ "&body=" + encodeURIComponent(mensagem);
     })();
 
 } 
